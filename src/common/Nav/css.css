@@ -1,0 +1,22 @@
+@import '~antd/dist/antd.css';
+
+#components-layout-demo-custom-trigger .trigger:hover {
+    color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
+
+.site-layout .site-layout-background {
+    background: #fff;
+}
+.logo {
+    height: 31px;
+    width: 31px;
+    background-image: url("../../static/logo.svg");
+    background-size: cover;
+    margin: 20px auto;
+}

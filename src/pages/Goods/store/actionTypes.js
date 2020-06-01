@@ -1,0 +1,1 @@
+export const GET_GOODS_LIST = 'coupon/GET_GOODS_LIST';
